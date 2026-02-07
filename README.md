@@ -12,3 +12,8 @@ tokenizers==0.21.0
 safetensors==0.5.0
 tensorboard==2.18.0
 ```
+## How to Run
+```txt
+bash run_IGMP.sh 0 OEA_D_W_15K_V1 norm 0.2 0 0.05
+bash run_IGMP.sh 0 DBP15K zh_en 0.3 0 0.05
+```
