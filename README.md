@@ -13,8 +13,10 @@ safetensors==0.5.0
 tensorboard==2.18.0
 ```
 ## Data
+```txt
 Data available here:[Baidu Cloud Drive](https://pan.baidu.com/s/1gxf9kXpL4Qcc1sHUNts4dg?pwd=cryk 提取码: cryk )
 ## How to Run
+```
 ```txt
 bash run_IGMP.sh 0 OEA_D_W_15K_V1 norm 0.2 0 0.05
 bash run_IGMP.sh 0 DBP15K zh_en 0.3 0 0.05
