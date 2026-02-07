@@ -12,7 +12,7 @@ tokenizers==0.21.0
 safetensors==0.5.0
 tensorboard==2.18.0
 ```
-## date
+## Data
 
 ## How to Run
 ```txt
