@@ -14,7 +14,7 @@ tensorboard==2.18.0
 ```
 ## Data
 
-Data available here:https://drive.google.com/file/d/11v7b_fljlYC3arwul1JvKu0bVtMZfadn/view?usp=drive_link
+Data available here: https://drive.google.com/file/d/11v7b_fljlYC3arwul1JvKu0bVtMZfadn/view?usp=drive_link
 
 ## How to Run
 
